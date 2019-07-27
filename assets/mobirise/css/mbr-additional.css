@@ -1892,70 +1892,53 @@ body {
   padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-rxoRbNN7SM {
-  padding-top: 90px;
-  padding-bottom: 15px;
+.cid-rxqneNYN08 {
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-rxoRbNN7SM h4 {
+.cid-rxqneNYN08 h4 {
+  width: 85%;
   font-weight: 500;
   margin-bottom: 0;
-  text-align: left;
 }
-.cid-rxoRbNN7SM p {
+.cid-rxqneNYN08 p {
   color: #767676;
-  margin: 0;
 }
-.cid-rxoRbNN7SM .card-box {
+.cid-rxqneNYN08 .card-wrapper {
+  border-top: 1px solid #efefef;
   background-color: #ffffff;
-  background-color: transparent;
-}
-.cid-rxoRbNN7SM .mbr-section-btn {
-  padding-top: 1rem;
-}
-.cid-rxoRbNN7SM .card-wrapper {
   position: relative;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
+  justify-content: unset;
 }
-.cid-rxoRbNN7SM .wrapper {
-  height: 100%;
+.cid-rxqneNYN08 .card-wrapper .card-box {
+  padding: 2rem;
+  width: 100%;
+}
+.cid-rxqneNYN08 .card-wrapper .card-box .top-line {
   display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
+  justify-content: space-between;
+  align-items: center;
 }
-.cid-rxoRbNN7SM .border_wrapper {
-  border-left: 1px solid #efefef;
-  padding-left: 2rem;
-}
-@media (max-width: 991px) {
-  .cid-rxoRbNN7SM .border_wrapper {
-    border-left: none;
-    padding-left: 0;
-  }
-  .cid-rxoRbNN7SM .mbr-section-btn a {
-    padding: 1rem 2rem;
-  }
-  .cid-rxoRbNN7SM .mbr-figure {
-    padding-bottom: 2rem;
-  }
+.cid-rxqneNYN08 .card-wrapper .card-box .bottom-line {
+  width: 85%;
 }
 @media (max-width: 767px) {
-  .cid-rxoRbNN7SM .wrapper {
-    align-items: center;
+  .cid-rxqneNYN08 .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-rxqneNYN08 .card-wrapper .card-box .bottom-line p {
     text-align: center;
-  }
-  .cid-rxoRbNN7SM .col-left h4 {
-    padding-top: 1rem;
-  }
-  .cid-rxoRbNN7SM p.col-right {
-    padding-top: 1rem;
+    margin: 1rem 0 0 0;
   }
 }
-.cid-rxoRbNN7SM .card-title {
+.cid-rxqneNYN08 .cost {
   color: #3cc611;
 }
-.cid-rxoRbNN7SM P {
+.cid-rxqneNYN08 .card-title {
+  color: #3cc611;
+}
+.cid-rxqneNYN08 .b-descr {
   color: #3cc611;
 }
 .cid-rxqkLh1HfO {
